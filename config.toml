@@ -36,7 +36,7 @@ link = "https://facebook.com"
 title = "Facebook"
 [[params.social]]
 icon = "fa-instagram"
-link = "http://BlackTie.co"
+link = "http://instagram.com"
 title = "Instagram"
 [[params.social]]
 icon = "fa-envelope"
