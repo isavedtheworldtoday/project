@@ -4,7 +4,7 @@ languageCode = "en-us"
 theme = "hugo-smpl-theme"
 title = "i saved the World today"
 [params]
-description = "It’s not necessary to set an agenda or raise funds to save the World. Simply make a small, considered choice, today."
+description = "There's no need to set an agenda or raise funds to save the World. Simply make a small, considered choice, today."
 name = "i saved the World today"
 [params.background.fade]
 enable = true
