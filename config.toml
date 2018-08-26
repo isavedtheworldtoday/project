@@ -19,7 +19,7 @@ image = "assets/img/logo.png"
 width = "100"
 [params.quote]
 enable = true
-text = "It’s not necessary to set an agenda or raise funds to save the World. Simply make a small, considered choice, today."
+text = "There's no need to set an agenda or raise funds to save the World. Simply make a small, considered choice, today."
 [params.social_icons]
 enable = true
 [[params.social]]
